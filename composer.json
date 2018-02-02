@@ -1,0 +1,16 @@
+{
+    "name": "ofbeaton/phabricator-rfcemail",
+    "description": "Unofficial Allow full RFC Email registrations in Phabricator",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Finlay Beaton",
+            "email": "ofbeaton@gmail.com"
+        },        
+        {
+            "name": "phabricator-rfcemail Community",
+            "homepage": "https://github.com/ofbeaton/phabricator-rfcemail/graphs/contributors"
+        }
+    ],
+    "require": {}
+}
