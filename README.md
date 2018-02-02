@@ -1,7 +1,7 @@
 # phabricator-rfcemail
 Unofficial Allow full RFC Email registrations in Phabricator.
 
-Some users have characters in their email addressess that are disallowed in upstream Phabricator despite being valid RFC 5322 email addresses.
+Some users have characters in their email addresses that are disallowed in upstream Phabricator despite being valid RFC 5322 email addresses.
 
 For example, any Irish person with an apostrophe in their name (`O'Brien`, `O'Connor`, `D'Angelo`, etc)
 
