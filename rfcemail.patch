@@ -1,7 +1,7 @@
-diff --git a/phabricator_clean/src/applications/people/storage/PhabricatorUserEmail.php b/phabricator/src/applications/people/storage/PhabricatorUserEmail.php
+diff --git a/src/applications/people/storage/PhabricatorUserEmail.php b/src/applications/people/storage/PhabricatorUserEmail.php
 index 4294601..fc12854 100644
---- a/phabricator_clean/src/applications/people/storage/PhabricatorUserEmail.php
-+++ b/phabricator/src/applications/people/storage/PhabricatorUserEmail.php
+--- a/src/applications/people/storage/PhabricatorUserEmail.php
++++ b/src/applications/people/storage/PhabricatorUserEmail.php
 @@ -69,7 +69,7 @@ final class PhabricatorUserEmail extends PhabricatorUserDAO {
      // To this end, we're roughly verifying that there's some normal text, an
      // "@" symbol, and then some more normal text.
